@@ -3,11 +3,12 @@
 ## Descrição Geral do Projeto
 Aplicativo Android para cálculo do Índice de Massa Corporal (IMC).
 
-![Logo do IMC](app/src/main/res/drawable/img_logo_imc_calculator.png)
+![Logo do IMC](img/img_logo_imc_calculator.png)
 
 ## Aluno
 Gabriel Carvalho Mota  
-Estudante de Ciência da Computação - FECAP
+Curso: Ciência da Computação
+RA: 24026334
 
-## Processo de Desenvolvimento
+## Desafio
 O maior desafio foi enviar os dados entre as telas usando **Intent** e **Bundle**.
