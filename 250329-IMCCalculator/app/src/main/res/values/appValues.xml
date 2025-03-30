@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Identidade visual IMC-->
+    <color name="VerdeEscuro">#006341</color>
+    <color name="VerdeClaro">#00A859</color>
+    <color name="CinzaEscuro">#4D4D4D</color>
+    <color name="CinzaClaro">#B3B3B3</color>
+    <color name="Branco">#FFFFFF</color>
+
+    <!-- Botões-->
+
+    <string name="btnIniciarIMC">Calculadora IMC</string>
+    <string name="btnCalcularIMC">Calcular IMC</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnFechar">Fechar</string>
+
+    <!-- Título-->
+
+    <string name="textViewTitulo">Seu Resultado</string>
+
+    <!-- EditTexs-->
+
+    <string name="editTextPeso">Insira seu peso(kg)</string>
+    <string name="editTextAltura">Insira sua altura(m)</string>
+
+    <!-- Frases Motivacionais-->
+
+    <string name="TextV_AB">Seu IMC está abaixo do normal. Procure orientação.</string>
+    <string name="TextV_PN">Você está com o peso ideal. Mantenha-se assim!</string>
+    <string name="TextV_S">Seu IMC indica sobrepeso. Considere cuidar da alimentação.</string>
+    <string name="TextV_OG1">Obesidade grau 1. Procure ajuda para um plano de emagrecimento.</string>
+    <string name="TextV_OG2">A obesidade grau 2 traz riscos. Busque orientação médica.</string>
+    <string name="TextV_OG3">Seu IMC está muito alto. Consulte um médico para avaliação.</string>
+
+
+</resources>
