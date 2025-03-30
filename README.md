@@ -7,7 +7,7 @@ Aplicativo Android para cálculo do Índice de Massa Corporal (IMC).
 
 ## Aluno
 Gabriel Carvalho Mota  
-Curso: Ciência da Computação
+Curso: Ciência da Computação  
 RA: 24026334
 
 ## Desafio
